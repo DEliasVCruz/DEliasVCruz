@@ -18,6 +18,6 @@
 
 <br />
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEliasVCruz" />
 
 [linkedin]: https://www.linkedin.com/in/daniel-vilela-cruz-694968138/
