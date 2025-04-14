@@ -2,7 +2,7 @@
 
 ## I'm a Developer (Self Thought) and Business Administration Bachelor
 
-- 🌱 I’m currently learning Go and Rust
+- 🌱 I’m currently learning C and Low level Systems Programming
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Anything
 - 📫 How to reach me: danielvilelayo@gmail.com
